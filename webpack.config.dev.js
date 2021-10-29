@@ -80,6 +80,6 @@ module.exports = {
         }
       ]
     }),
-    new Dotend(),
+    new Dotenv(),
   ],
 }
